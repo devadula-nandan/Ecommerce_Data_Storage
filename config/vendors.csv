@@ -1,0 +1,6 @@
+vendor_id,vendor_name,vendor_email,vendor_password
+1,vendor_1,vendor_1@example.com,default_vendor1
+2,vendor_2,vendor_2@example.com,default_vendor2
+3,vendor_3,vendor_3@example.com,default_vendor3
+4,vendor_4,vendor_4@example.com,default_vendor4
+5,vendor_5,vendor_5@example.com,default_vendor5

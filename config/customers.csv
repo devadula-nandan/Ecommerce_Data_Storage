@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_email,customer_password,address
+1,admin,admin@example.com,admin,"790,Kozey Meadow Apt"
+2,user_1,user_1@example.com,default_user1,"8589,Miller Centers Leannonmouth"
+3,user_2,user_2@example.com,default_user2,"958, Gerry Estate New Eudora"
+4,user_3,user_3@example.com,default_user3,"Primary School Frontgate, Gotham"
+5,user_4,user_4@example.com,default_user4,"City Hospital, Gotham"
+6,user_5,user_5@example.com,default_user5,"15, Yemen Road, Yemen"
+7,user_6,user_6@example.com,default_user6,"Dunder mifflin, Scranton"
+8,user_7,user_7@example.com,default_user7,Primary School Frontgate Gotham
+9,user_8,user_8@example.com,default_user8,"99th Precinct, Brooklyn"
+10,user_9,user_9@example.com,default_user9,"Head office GreatLearning, Girgaon"
