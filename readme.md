@@ -1,3 +1,4 @@
+<!-- '{"name":"Ecommerce Data Storage","version": 12,"tech": ["Python","MySQL","CLI"],"tags":["backend"],"snapshots":[]}' -->
 # the .env file contains the mysql user password, so place your mysql user password in there.
 
 # run the setup.py first, make sure the path where you are running it from, it should be from src folder, if not, change the directory to it.
